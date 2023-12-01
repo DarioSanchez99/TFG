@@ -1,5 +1,4 @@
 import React from "react";
-import Logo from "../images/Rick_and_Morty.png"
 import Fondo from "../images/fondoRickMorty.jpeg"
 import Twitter from "../images/twitter.png"
 import Linkedin from "../images/linkedin.png"
